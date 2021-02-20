@@ -1,0 +1,30 @@
+.star-wrapper {
+  height: 50px;
+  width: 300px;
+  background: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px auto;
+  border-radius: 5px;
+}
+
+.star-box {
+  width: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.star,
+.starclicked {
+  font-size: 30px;
+}
+
+.star {
+  color: grey;
+}
+
+.starclicked {
+  color: gold;
+}

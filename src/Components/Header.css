@@ -1,0 +1,11 @@
+.header-logo {
+  background-color: #dddddd;
+  display: flex;
+  justify-content: center;
+}
+
+.header-logo img {
+  width: 130px;
+  cursor: pointer;
+  color: white;
+}
